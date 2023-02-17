@@ -15,7 +15,7 @@ export const defaultTheme = {
     'grenn-700': '#015F43',
 
     'red-500': '#F03847',
-    'red-700': '#00875F',
+    'red-700': '#7A1921',
 
     'yellow-500': '#FBA94C',
 }
